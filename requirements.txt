@@ -1,0 +1,12 @@
+argparse==1.4.0
+transformers==4.28.1
+torch==1.10
+numpy==1.24.3
+tqdm==4.65.0
+copy==1.0.4
+random==1.0.1
+pickle4==0.0.1
+sklearn==0.0.1
+logging==0.4.9.6
+math==1.0.0
+json==1.0.0
