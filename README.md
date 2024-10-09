@@ -39,7 +39,7 @@ If you have any inquiries pertaining to the code or the paper, please do not hes
 
 ## Authors
 
-- [**Yue Feng**](https://yuefeng-leah.github.io/homepage/main): Main contributor
+- **Yue Feng**: Main contributor
 
 ## Security
 
